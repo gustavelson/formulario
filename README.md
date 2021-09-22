@@ -1,2 +1,2 @@
 # Formulário
-Formulário simples com verificações utilizando o JavaScript.
+Formulário simples, feito com HTML e CSS. Verificações utilizando o JavaScript.
